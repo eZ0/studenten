@@ -7,3 +7,4 @@ Studenten
 - [Matthias De Winter](https://github.com/MatthiasDeWinter)
 - [Ferre Lambert](https://github.com/Ferrrrrre)
 - [Jonas Van der Sande](https://github.com/maxjonas13)
+- [Sven Wittevrongel](https://github.com/CupOfTea696/)
