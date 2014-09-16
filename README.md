@@ -10,3 +10,4 @@ Studenten
 - [Sven Wittevrongel](https://github.com/CupOfTea696/)
 - [Joren Van Hocht](https://github.com/jorenvh)
 - [Cedric Bongaerts](https://github.com/CedricBongaerts)
+- [Vincent Noben](https://github.com/Vincent-Noben)
