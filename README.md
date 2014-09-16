@@ -8,3 +8,4 @@ Studenten
 - [Ferre Lambert](https://github.com/Ferrrrrre)
 - [Jonas Van der Sande](https://github.com/maxjonas13)
 - [Sven Wittevrongel](https://github.com/CupOfTea696/)
+- [Joren Van Hocht] (https://github.com/jorenvh)
