@@ -1,4 +1,4 @@
 Studenten
 =========
 
-- [voorbeeld naam](github url)
+- [Sven Wittevrongel](https://github.com/CupOfTea696/)
