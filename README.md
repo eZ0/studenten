@@ -22,3 +22,4 @@ Studenten
 - [Vincent Noben](https://github.com/Vincent-Noben)
 - [Wouter Jansen](https://github.com/Mr1048576)
 - [Jasper Baetens](https://github.com/JasperBaetens)
+- [William Blommaert](https://github.com/Will0489)
