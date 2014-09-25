@@ -21,3 +21,4 @@ Studenten
 - [Verena Vertonghen](https://github.com/VerenaVertonghen/)
 - [Vincent Noben](https://github.com/Vincent-Noben)
 - [Wouter Jansen](https://github.com/Mr1048576)
+- [Jasper Baetens](https://github.com/JasperBaetens)
